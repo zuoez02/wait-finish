@@ -1,0 +1,13 @@
+{
+  "name": "wait-finish",
+  "version": "1.0.1",
+  "description": "Global wait list",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "zuoez02",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuoez02/wait-finish"
+  }
+}
