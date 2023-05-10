@@ -1,9 +1,9 @@
 {
   "name": "wait-finish",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Global wait list",
   "main": "index.js",
-  "types": "index.d.ts",
+  "types": "type.d.ts",
   "author": "zuoez02",
   "license": "MIT",
   "repository": {
