@@ -31,7 +31,7 @@ const finish = (event, result) => {
     if (!g._waitList[event]) {
         const { resolve, promise } = newPromiseWithResolve();
         g._waitList[event] =  { promise, resolve };
-        resolve(res);
+        resolve(result);
     } else {
         const { resolve } = g._waitList[event];
         resolve(result);
